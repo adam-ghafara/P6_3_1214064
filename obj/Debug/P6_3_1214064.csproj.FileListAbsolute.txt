@@ -1,0 +1,11 @@
+C:\Users\ADAM GHAFARA\source\repos\P6_3_1214064\P6_3_1214064\bin\Debug\P6_3_1214064.exe.config
+C:\Users\ADAM GHAFARA\source\repos\P6_3_1214064\P6_3_1214064\bin\Debug\P6_3_1214064.exe
+C:\Users\ADAM GHAFARA\source\repos\P6_3_1214064\P6_3_1214064\bin\Debug\P6_3_1214064.pdb
+C:\Users\ADAM GHAFARA\source\repos\P6_3_1214064\P6_3_1214064\obj\Debug\P6_3_1214064.csproj.AssemblyReference.cache
+C:\Users\ADAM GHAFARA\source\repos\P6_3_1214064\P6_3_1214064\obj\Debug\P6_3_1214064.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADAM GHAFARA\source\repos\P6_3_1214064\P6_3_1214064\obj\Debug\P6_3_1214064.Form1.resources
+C:\Users\ADAM GHAFARA\source\repos\P6_3_1214064\P6_3_1214064\obj\Debug\P6_3_1214064.Properties.Resources.resources
+C:\Users\ADAM GHAFARA\source\repos\P6_3_1214064\P6_3_1214064\obj\Debug\P6_3_1214064.csproj.GenerateResource.cache
+C:\Users\ADAM GHAFARA\source\repos\P6_3_1214064\P6_3_1214064\obj\Debug\P6_3_1214064.csproj.CoreCompileInputs.cache
+C:\Users\ADAM GHAFARA\source\repos\P6_3_1214064\P6_3_1214064\obj\Debug\P6_3_1214064.exe
+C:\Users\ADAM GHAFARA\source\repos\P6_3_1214064\P6_3_1214064\obj\Debug\P6_3_1214064.pdb
